@@ -2,7 +2,7 @@ package hello
 
 func Hello() string {
 	//some comment
- //fafsdf
+ //fafsdfa
 //fsdhfjnisdfsakjfuewioudsjf
 	return "hello world!"
 }
